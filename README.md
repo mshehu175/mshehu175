@@ -1,16 +1,26 @@
 ## Hi there 👋
+Hi there, I'm Muhammad Shehu ABubakar! 👋
 
-<!--
-**mshehu175/mshehu175** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer | Data Analyst | Open-Source Enthusiast
 
-Here are some ideas to get you started:
+Passionate about building impactful software, exploring emerging technologies, and contributing to the open-source ecosystem.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About Me
+
+🔭 Currently: Building projects and enhancing problem-solving skills on LeetCode.
+
+🌱 Learning: I am currently Rust programming language.
+
+👯 Collaborating: Actively contributing to open-source projects.
+
+🤔 Looking for: Resources on advanced algorithms and emerging Web3 technologies.
+
+💬 Ask me about: Software development, technical writing, or open-source contributions.
+
+📫 Reach me on: mshehu175@gmail.com | LinkedIn
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: A proud coffee enthusiast and self-proclaimed coffee snob.
+
+
