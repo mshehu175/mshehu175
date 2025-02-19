@@ -1,5 +1,5 @@
 ## Hi there 👋
-Hi there, I'm Muhammad Shehu ABubakar! 👋
+Hi there, I'm Muhammad Shehu Abubakar! 👋
 
 Software Engineer | Data Analyst | Open-Source Enthusiast
 
